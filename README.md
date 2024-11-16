@@ -1,2 +1,2 @@
 # New
-This is the important things in this for Git and Gitup.
+This is the important things for Git and Gitup.
